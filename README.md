@@ -18,3 +18,6 @@ The site URL should be https://artisticshashank.github.io/LifeOS/
 - The routine assumes college runs approximately 8:00 AM–4:30 PM; edit the schedule in app.js to match your timetable.
 - Checklist and notes are stored only in the current browser on the current device and do not sync between devices.
 - A 10:30 PM bedtime gives a 6:00 AM wake-up time 7.5 hours in bed.
+
+
+Deployment workflow configured in `.github/workflows/pages.yml`.
